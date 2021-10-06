@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Rajaram 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RajaramKarki10)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RajaramKarki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RajaramKarki8)
 
 ## I'm a Enthusiastic Student!!
 
