@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RajaramKarki8?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RajaramKarki8)
 
-## I'm a Enthusiastic Student!!
+## I'm an Enthusiastic Student!!
 
 - 🔭 I am currently working on creating games in C++ without engines.
 - 🌱 I’m currently learning Data Structures and Algorithm
@@ -50,8 +50,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-<br />
-<br />
+
 
 [website]: https://rajaramkarki89.blogspot.com/
 [twitter]: https://twitter.com/RajaramKarki8
