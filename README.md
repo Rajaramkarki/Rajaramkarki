@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## I'm an Enthusiastic Student!!
 
-- 🔭 I am currently working on creating games in C++ without engines.
-- 🌱 I’m currently learning Data Structures and Algorithm
+- 🔭 I am currently working on game development with Unity.
+- 🌱 I’m currently learning Git, GitHub and Unity Game Development.
 - 👯 I’m looking to collaborate with my friends on various projects.
-- 🥅 2021 Goals: Create at least one other project.
-- ⚡ Fun fact: I love to play games, watch anime and sometimes drawing.
+- 🥅 2023 Goals: Finish Create with Code from Learn Unity and try Unity Certified User Programmer Exam.
+- ⚡ Fun fact: I love to play games, make them and sometimes drawing.
 - 😄 Pronouns: He/Him
 
 ### Connect with me:
