@@ -41,13 +41,11 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-### Languages and Tools
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" />
+<img align="left" alt="Unity" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" />
 
 
 
