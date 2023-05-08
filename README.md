@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/18a3e5453a48d7fc0c43fc41c7cfce2b6190b7f3/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/18a3e5453a48d7fc0c43fc41c7cfce2b6190b7f3/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/18a3e5453a48d7fc0c43fc41c7cfce2b6190b7f3/topics/css/css.png" />]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/18a3e5453a48d7fc0c43fc41c7cfce2b6190b7f3/topics/csharp/csharp.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" />]
+[<img align="left" alt="C#" width="26px" src="https://i.pinimg.com/564x/ec/87/b6/ec87b60354654716445332f85ae73796.jpg" />]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unity-5-555544.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/18a3e5453a48d7fc0c43fc41c7cfce2b6190b7f3/topics/mysql/mysql.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 
 
 
