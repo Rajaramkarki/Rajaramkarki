@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RajaramKarki8?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RajaramKarki8)
 
-<p align="left"> <a href="https://twitter.com/rajaramkarki89" target="blank"><img src="https://img.shields.io/twitter/follow/rajaramkarki89?logo=twitter&style=for-the-badge" alt="rajaramkarki89" /></a> </p>
+
 
 - 🔭 I’m currently working on **game development with Unity.**
 
