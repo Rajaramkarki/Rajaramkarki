@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **with my friends on various projects.**
 
-- 📝 I used to write articles on [https://rajaramkarki89.blogspot.com/](https://rajaramkarki89.blogspot.com/)
+- 📝 I used to write articles on [Blog](https://rajaramkarki89.blogspot.com/)
 
 - 📫 How to reach me **rajaramkarki89@gmail.com**
 
