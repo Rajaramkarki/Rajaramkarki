@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I love I like to play games, make them, and sometimes draw.**
 
-<br>
+
 <br>
 
 ### Connect with me:
