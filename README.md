@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **I love I like to play games, make them, and sometimes draw.**
 
+<br>
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,6 +31,7 @@
 [<img align="left" alt="Rajaram Karki | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
 
+<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
