@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajaramkarki89@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rSLAhVS4bfmgvXeC8QvT8I61-yrn6TGb/view?usp=sharing](https://drive.google.com/file/d/1rSLAhVS4bfmgvXeC8QvT8I61-yrn6TGb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rSLAhVS4bfmgvXeC8QvT8I61-yrn6TGb/view?usp=sharing)
 
 - ⚡ Fun fact **I love I like to play games, make them, and sometimes draw.**
 
