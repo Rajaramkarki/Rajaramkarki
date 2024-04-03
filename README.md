@@ -5,19 +5,19 @@
 
 
 
-- 🔭 I’m currently working on **game development with Unity.**
+- 🔭 I’m currently working on **.NET Development**
 
-- 🌱 I’m currently learning **Game Creator in Unity, and Unity with WebGl**
+- 🌱 I’m currently more focused on **ASP.NET Core MVC** but also want to branch to **ML.NET**
 
-- 👯 I’m looking to collaborate on **with my friends on various projects.**
+- 👯 I’m looking to collaborate on **with my people on ML.NET**
 
 - 📝 I used to write articles on [Blog](https://rajaramkarki89.blogspot.com/)
 
 - 📫 How to reach me **rajaramkarki89@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WN0jgp9XA_F8XKIcmV6tobVmVYoxLitD/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AemKs98k3pXYdBlY9yb3vC0E8-KEhQsm/view?usp=sharing)
 
-- ⚡ Fun fact **I love I like to play games, make them, and sometimes draw.**
+- ⚡ Fun fact **I love I like to play games, sometimes make them, and also drawing.**
 
 
 <br>
