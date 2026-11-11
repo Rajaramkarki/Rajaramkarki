@@ -1,50 +1,51 @@
-<h1 align="center">Hi 👋, I'm Rajaram Karki</h1>
-<h3 align="center">A passionate Programmer</h3>
+<h1 align="center">Rajaram Karki</h1>
+<h3 align="center">Serious about code. Built to play.</h3>
+<p align="center">Software engineer & game developer · Kathmandu, Nepal</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RajaramKarki8?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RajaramKarki8)
+<p align="center">
+  <a href="https://rajaramkarki.github.io"><strong>Explore my portfolio</strong></a> ·
+  <a href="https://rajaramkarki.github.io/resume.pdf"><strong>Read my résumé</strong></a> ·
+  <a href="https://rajaramkarki89.blogspot.com/">Read my blog</a>
+</p>
 
+---
 
+I build software systems and game worlds, with **C#** at the core of both.
 
-- 🔭 I’m currently working on **.NET Development**
+My engineering experience spans **.NET, SQL, RavenDB, ETL, and data warehousing**. My game-development work includes professional Unity projects, mobile games, multiplayer experiments, and small worlds built out of curiosity.
 
-- 🌱 I’m currently more focused on **ASP.NET Core MVC** but also want to branch to **ML.NET**
+### Selected quests
 
-- 👯 I’m looking to collaborate on **with my people on ML.NET**
+| Project | What I worked on |
+| --- | --- |
+| **[Royal Roulette](https://rajaramkarki.github.io/#royal-roulette)** | A collaborative Unity mobile collection with **26 games**. My contributions included lobby UI, filtering, menu updates, and daily spin wheel work. **APK available on request.** |
+| **[Empire Clash](https://rajaramkarki.github.io/#work)** | A small Unity RTS: deploy troops, navigate the battlefield, and destroy enemy structures. **APK available on request.** |
+| **[Nalapani](https://github.com/Rajaramkarki/Nalapani2)** | A history-inspired Unity prototype with a fort, Nepali village environments, character models, and basic player mechanics. **Work in progress.** |
+| **[Sphere In Arms](https://github.com/Rajaramkarki/Sphere-In-Arms)** | A team semester project exploring multiplayer FPS mechanics with Unity, Photon, and ProBuilder. |
+| **[Geet](https://github.com/Rajaramkarki/Geet)** | A Django and PostgreSQL music streaming project with uploads, listening history, and community features. |
 
-- 📝 I used to write articles on [Blog](https://rajaramkarki89.blogspot.com/)
+**[See the full portfolio →](https://rajaramkarki.github.io/#work)**
 
-- 📫 How to reach me **rajaramkarki89@gmail.com**
+### My toolkit
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AemKs98k3pXYdBlY9yb3vC0E8-KEhQsm/view?usp=sharing)
+| Systems & data | Games & interactive work | Other tools |
+| --- | --- | --- |
+| C# · .NET · ASP.NET Core | Unity · Photon · ProBuilder | Git · Plastic SCM · Docker |
+| SQL · RavenDB · ETL · AWS S3 | Blender · Photoshop | Python · Django · JavaScript · C++ |
 
-- ⚡ Fun fact **I love I like to play games, sometimes make them, and also drawing.**
+### Research
 
+**[E-Learning Amidst COVID-19 in Nepal](https://rajaramkarki.github.io/assets/e-learning-nepal.pdf)**  
+A collaborative E-Governance course paper at Kathmandu University, co-authored with **Ashish Thapa** and **Shashank Verma**. We explored students' online-learning experiences through 38 survey responses and Mann–Whitney U comparisons.
 
-<br>
+### Beyond the keyboard
 
-### Connect with me:
+I occasionally write on **[my blog](https://rajaramkarki89.blogspot.com/)**: random thoughts, things I've been working on, and poetry. I also enjoy drawing and rooftop gardening.
 
-[<img align="left" alt="blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rajaram Karki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rajaram Karki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rajaram Karki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Rajaram Karki | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+Computer Engineering, **Kathmandu University (2019–2024)** · CGPA **3.80**
 
+### Get in touch
 
-<br>
-<br>
+[Email](mailto:rajaramkarki89@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rajaram-karki/) · [Portfolio](https://rajaramkarki.github.io) · **[Résumé](https://rajaramkarki.github.io/resume.pdf)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaramkarki&show_icons=true&locale=en&layout=compact" alt="rajaramkarki" /></p>
-
-
-
-[website]: https://rajaramkarki89.blogspot.com/
-[twitter]: https://twitter.com/RajaramKarki8
-[instagram]: https://www.instagram.com/rajaramkarki/
-[linkedin]: https://www.linkedin.com/in/rajaram-karki-48a941141/
-[facebook]: https://www.facebook.com/rajaram.karki.754/
+For a Royal Roulette or Empire Clash APK, [send me a request](mailto:rajaramkarki89@gmail.com?subject=Game%20APK%20request).
